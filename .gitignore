@@ -1,0 +1,7 @@
+/build
+/target
+derby.log
+.DS_Store
+.classpath
+.project
+/.settings
